@@ -2,7 +2,7 @@ The terminal command "sh" extension, how to work with the command line contains 
 
 
 <h3>How to work?</h3>
-first donwload your `examle.sh`
+first donwload your `example.sh`
 
 open Terminal: `ctrl+alt+T`<br>
 `chmod +x example.sh`<br>
