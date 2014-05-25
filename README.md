@@ -7,6 +7,8 @@ first donwload your examle.sh
 open terminal <pre><code>ctrl+alt+T</code> </pre>
 <pre><code>chmod +x example.sh</code></pre>
 <pre><code>./example.sh</code></pre>
+`pip install psdash`
+
 
 
 Do not forget click the STAR,thank you (:)
