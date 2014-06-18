@@ -16,5 +16,5 @@ sudo apt-get install ufw -y || -e
 sudo apt-get install xmms -y || -e
 sudo apt-get install curl -y || -e
 sudo apt-get install libavcodec-extra-53 -y || -e #youtube-dl ERROR: audio conversion failed: Unknown encoder 'libmp3lame
-
+sudo apt-get install yum -y || -e
 echo "\n\n\n\n\tGithub'da STAR icin Teşekkürlerimi sunarım...\n\t\t\tMehemmed (:)"
