@@ -6,3 +6,5 @@ sudo apt-get install mplayer -y || -e
 #To run
 mpsyt
 #To search for a video on YouTube, prefix your search with either # . or /
+echo
+echo "\n\n\tGithub'da STAR icin Teşekkürlerimi sunarım...\n\t\t\tMehemmed (:)"
