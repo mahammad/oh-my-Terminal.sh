@@ -1,5 +1,5 @@
 #!/usr/bin/
-
+#simple calculator example
 echo Please enter a number
 read number
 
