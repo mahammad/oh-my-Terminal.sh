@@ -1,14 +1,7 @@
-The terminal command "sh" extension, how to work with the command line contains this repository.
+This repository contains some programs how to install the terminal and my Bash Programming language projects & examples.
 
-
-<h3>How to work?</h3>
-first donwload your `example.sh`
-
-open Terminal: `ctrl+alt+T`<br>
-`chmod +x example.sh`<br>
-`./example.sh`<br>
-
-
+1. Bash programing example folder
+2. How to install folder
 
 <br>
 Do not forget click the `STAR`,thank you (:)
