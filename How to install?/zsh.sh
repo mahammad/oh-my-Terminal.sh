@@ -5,6 +5,6 @@ sudo apt-get install zsh
 cp ~/.zshrc ~/.zshrc.orig
 cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc
 chsh -s /bin/zsh
-echo
-echo "\n\n\tGithub'da STAR icin Teşekkürlerimi sunarım...\n\t\t\tMehemmed (:)"
+
+echo "\n\n\tThank you (:)"
 
