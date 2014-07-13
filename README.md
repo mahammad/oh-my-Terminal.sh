@@ -4,6 +4,4 @@ This repository contains some programs how to install the terminal and my Bash P
 2. How to install folder
 
 <br>
-Do not forget click the `STAR`,thank you (:)
-<br>
-`STAR`'a Tıklamayı unutmaın, teşekkürler (:)
+Thank you, Teşekkürler (:)
