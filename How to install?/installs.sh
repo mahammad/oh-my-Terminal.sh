@@ -19,4 +19,4 @@ sudo apt-get install libavcodec-extra-53 -y || -e #youtube-dl ERROR: audio conve
 sudo apt-get install yum -y || -e
 sudo apt-get install gnome-system-tools -y || -e #gnome-system-tools 
 sudo apt-get update
-echo "\n\n\n\n\tGithub'da STAR icin Teşekkürlerimi sunarım...\n\t\t\tMehemmed (:)"
+echo "\n\tThank you (:)"
