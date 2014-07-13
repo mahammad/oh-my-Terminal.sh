@@ -11,6 +11,6 @@ open Terminal: `ctrl+alt+T`<br>
 
 
 <br>
-Do not forget click the `STAR`,thank you (:)
+Thank you (:)
 <br>
-`STAR`'a Tıklamayı unutmaın, teşekkürler (:)
+Teşekkürler (:)
