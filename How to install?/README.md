@@ -1,8 +1,9 @@
-The terminal command "sh" extension, how to work with the command line contains this repository.
+> The terminal command "sh" extension, how to work with the command line contains this repository.
 
 
-<h3>How to work?</h3>
+###How to work?
 first donwload your `example.sh`
+> or you open RAW and wget link
 
 open Terminal: `ctrl+alt+T`<br>
 `chmod +x example.sh`<br>
@@ -10,7 +11,5 @@ open Terminal: `ctrl+alt+T`<br>
 
 
 
-<br>
-Thank you (:)
-<br>
-Teşekkürler (:)
+=============
+Thank you (:) <=> Teşekkürler (:)
