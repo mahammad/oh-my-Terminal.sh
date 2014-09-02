@@ -54,3 +54,7 @@ Thank you, Teşekkürler (:)
 	<!-- Go to www.addthis.com/dashboard to customize your tools -->
 	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54062f9736d41b1b"></script>
 {% endfor %}
+
+| Could you please format this better?
+| I see tha<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54062f9736d41b1b"></script> |
+|       text --> |//<![CDATA[|
