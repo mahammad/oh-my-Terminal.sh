@@ -50,5 +50,7 @@ Thank you, Teşekkürler (:)
 </body>
 </html>
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54062f9736d41b1b"></script>
+{% for js in page.customjs %}
+	<!-- Go to www.addthis.com/dashboard to customize your tools -->
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54062f9736d41b1b"></script>
+{% endfor %}
