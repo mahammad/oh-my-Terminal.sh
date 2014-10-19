@@ -3,7 +3,7 @@
 sudo apt-get install git -y || -e
 sudo apt-get install ssh -y || -e
 sudo apt-get install lm-sensors -y || -e
-sudo apt-get install openssh-server -y || -e
+sudo apt-get install openssh-client -y || -e
 sudo apt-get install gcc -y || -e
 sudo apt-get install miro -y || -e
 sudo apt-get install youtube-dl -y || -e
