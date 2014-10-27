@@ -4,4 +4,4 @@ This repository contains some programs how to install the terminal and my Bash P
 2. [How to install folder](https://github.com/msxiyev/oh-my-Terminal.sh/tree/master/How%20to%20install%3F)
 
 <br>
-Thank you, Teşekkürler (:)
+Thank you, Teşekkürler :smile:
