@@ -3,7 +3,7 @@
 
 ###How to work?
 first donwload your `example.sh`
-> or you open RAW and wget link
+> or you open RAW and `wget link`
 
 open Terminal: `ctrl+alt+T`<br>
 `chmod +x example.sh`<br>
@@ -12,4 +12,4 @@ open Terminal: `ctrl+alt+T`<br>
 
 
 =============
-Thank you (:) <=> Teşekkürler (:)
+Thank you, Teşekkürler :smile:
