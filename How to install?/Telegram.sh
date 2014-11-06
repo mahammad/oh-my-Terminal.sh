@@ -1,3 +1,3 @@
-sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo add-apt-repository ppa:costales/unity-webapps-telegram
 sudo apt-get update
-sudo apt-get install telegram-purple -y || -e
+sudo apt-get install unity-webapps-telegram -y || -e
