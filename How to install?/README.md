@@ -63,6 +63,16 @@ open Terminal: `ctrl+alt+T`<br>
 	11. Do run enable
 	`chmod +x FirefoxDeveloperEdition.desktop`
 	11. Go Desktop and click Firefox Developer Edition :smile:
+	 
+### How to install Viber on Ubuntu 
+Follow by steps:
+```bash
+1. wget -c download.cdn.viber.com/cdn/desktop/Linux/Viber.zip
+2. unzip Viber.zip
+3. cd Viber
+4. ./Viber.sh
+```
+
 
 =============
 Thank you, Teşekkürler :smile:
